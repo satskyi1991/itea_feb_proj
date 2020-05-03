@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81d67b81-5821-4ab9-be96-51862e0da9fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Dein Name\PycharmProjects\itea_feb_project\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAu9gKfwfiVDFQ8qOQbuoe5EVb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itea_feb_project — копия" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dein Name\PycharmProjects\itea_feb_project" />
+      <recent name="C:\Users\Dein Name\PycharmProjects\itea_feb_project\web_shop" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="itea_feb_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_shop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dein Name\PycharmProjects\itea_feb_project\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81d67b81-5821-4ab9-be96-51862e0da9fd" name="Default Changelist" comment="" />
+      <created>1586190569983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586190569983</updated>
+      <workItem from="1586190585016" duration="191000" />
+      <workItem from="1586191036421" duration="1663000" />
+      <workItem from="1586192897981" duration="1789000" />
+      <workItem from="1586194723016" duration="1358000" />
+      <workItem from="1586268027113" duration="721000" />
+      <workItem from="1586270735249" duration="1391000" />
+      <workItem from="1586273253650" duration="599000" />
+      <workItem from="1586275291578" duration="603000" />
+      <workItem from="1586279274165" duration="54000" />
+      <workItem from="1586450688316" duration="1565000" />
+      <workItem from="1586452460544" duration="1599000" />
+      <workItem from="1586454105262" duration="1512000" />
+      <workItem from="1586455922834" duration="1837000" />
+      <workItem from="1586698609240" duration="640000" />
+      <workItem from="1586700427632" duration="599000" />
+      <workItem from="1586793046916" duration="1744000" />
+      <workItem from="1586794831004" duration="1785000" />
+      <workItem from="1586796674453" duration="1785000" />
+      <workItem from="1586798499687" duration="1786000" />
+      <workItem from="1586800325092" duration="1782000" />
+      <workItem from="1586802139561" duration="276000" />
+      <workItem from="1586802462855" duration="2129000" />
+      <workItem from="1587049901749" duration="1645000" />
+      <workItem from="1587052868739" duration="1781000" />
+      <workItem from="1587054686442" duration="724000" />
+      <workItem from="1587056567510" duration="1526000" />
+      <workItem from="1587058853593" duration="697000" />
+      <workItem from="1587060968766" duration="1553000" />
+      <workItem from="1587203950610" duration="1175000" />
+      <workItem from="1587217779082" duration="1585000" />
+      <workItem from="1587219596560" duration="1198000" />
+      <workItem from="1587221592302" duration="606000" />
+      <workItem from="1587223812056" duration="789000" />
+      <workItem from="1587225633546" duration="1097000" />
+      <workItem from="1587286543438" duration="600000" />
+      <workItem from="1587288922058" duration="621000" />
+      <workItem from="1587290737279" duration="833000" />
+      <workItem from="1587293422011" duration="602000" />
+      <workItem from="1587295298316" duration="1204000" />
+      <workItem from="1587297603925" duration="602000" />
+      <workItem from="1587299421762" duration="1022000" />
+      <workItem from="1587301290590" duration="631000" />
+      <workItem from="1587477186988" duration="1764000" />
+      <workItem from="1587478976675" duration="2086000" />
+      <workItem from="1587481355833" duration="623000" />
+      <workItem from="1587484244398" duration="1147000" />
+      <workItem from="1587486073012" duration="600000" />
+      <workItem from="1587487948950" duration="599000" />
+      <workItem from="1587489792656" duration="1780000" />
+      <workItem from="1587491613255" duration="1899000" />
+      <workItem from="1587657574708" duration="593000" />
+      <workItem from="1587659387951" duration="599000" />
+      <workItem from="1587662165469" duration="598000" />
+      <workItem from="1587663982555" duration="597000" />
+      <workItem from="1587665851130" duration="599000" />
+      <workItem from="1588419658397" duration="25000" />
+      <workItem from="1588536862562" duration="365000" />
+      <workItem from="1588537248287" duration="1795000" />
+      <workItem from="1588539071068" duration="77000" />
+      <workItem from="1588539161300" duration="346000" />
+      <workItem from="1588539524643" duration="21000" />
+      <workItem from="1588539572677" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="896" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588539751387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="896" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588539751387" />
+    <state x="409" y="6" key="#main" timestamp="1588540063182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="6" key="#main/0.0.1366.728@0.0.1366.728" timestamp="1588540063182" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1588540069010">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588540069010" />
+    <state x="521" y="266" width="347" height="195" key="Github.CreateGistDialog" timestamp="1588537970762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="521" y="266" width="347" height="195" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1588537970762" />
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom" timestamp="1588538975671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588538975671" />
+    <state width="1323" height="174" key="GridCell.Tab.0.center" timestamp="1588538975671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588538975671" />
+    <state width="1323" height="174" key="GridCell.Tab.0.left" timestamp="1588538975671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588538975671" />
+    <state width="1323" height="174" key="GridCell.Tab.0.right" timestamp="1588538975671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588538975671" />
+    <state x="783" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1588539572856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="783" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588539572856" />
+    <state x="736" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587490646051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="736" y="37" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1587490646051" />
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588538667783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1588538667783" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/itea_feb_project$main.coverage" NAME="main Coverage Results" MODIFIED="1587492850717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_shop" />
+    <SUITE FILE_PATH="coverage/itea_feb_proj$main.coverage" NAME="main Coverage Results" MODIFIED="1588538975653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_shop" />
+  </component>
+</project>
