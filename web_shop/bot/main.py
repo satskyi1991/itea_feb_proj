@@ -6,6 +6,7 @@ from telebot.types import (
     KeyboardButton,
     InlineKeyboardButton,
     InlineKeyboardMarkup,
+    Update
 )
 
 from ..db.models import (
@@ -15,7 +16,11 @@ from ..db.models import (
     Product
 )
 
+from flask import Flask
+from flask import request, abort
+
 bot = TeleBot(TOKEN)
+app = Flask(__name__)
 
 
 @bot.message_handler(commands=['start'])
@@ -86,3 +91,12 @@ def get_news(message):
 @bot.message_handler(func=lambda message: message.text == START_KB['discount_products'])
 def get_discount_products(message):
     pass
+
+def set_webhook():
+    import time
+    bot .remove_webhook()
+    time.sleep(1)
+    bot.set_webhook(
+        url = 'https://34.89.168.121/tg',
+        certificate = open('web_cert.pem', 'r')
+    )
